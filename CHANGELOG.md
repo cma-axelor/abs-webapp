@@ -3,6 +3,7 @@
 ## [5.1.7] - 2019-06-17
 - USER : filter assigned to user in partner form
 - AVAILABITY REQUEST : error message if availableStock is less than realQty - reservedQty on stock move line
+- Test
 
 ## Improvements
 - SALE ORDER : line not editable if availability request = true
